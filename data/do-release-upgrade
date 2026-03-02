@@ -5,3 +5,4 @@ printf '%s\n' \
   'Use `pop-upgrade release upgrade` instead.' \
   '' \
   'For more information, visit: https://support.system76.com/articles/upgrade-pop'
+  
